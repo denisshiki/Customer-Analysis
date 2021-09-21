@@ -2,7 +2,7 @@
 ___
 ## 🔍 PROBLEM AND PRODUCT
 
-In this projetct we'll use the Kaggle dataset locate in this link:<br> https://www.kaggle.com/imakash3011/customer-personality-analysis
+In this projetct I used the Kaggle dataset locate in this link:<br> https://www.kaggle.com/imakash3011/customer-personality-analysis
 
 In this project I wanted to make a cluster of the clients using the K-Means algoritm and analyse the groups created. This will help marketing sector of the company to understand better his clients and classify then in order to give a personalised market campaig to each group.<br>
 
