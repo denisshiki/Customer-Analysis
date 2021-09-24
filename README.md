@@ -5,10 +5,12 @@ ___
 In this projetct I used the Kaggle dataset locate in this link:<br> https://www.kaggle.com/imakash3011/customer-personality-analysis
 
 In this project I wanted to make a cluster of the clients using the K-Means algoritm and analyse the groups created. This will help marketing sector of the company to understand better his clients and classify then in order to give a personalised market campaig to each group.<br>
+Other  thing that we wanna do is to send a link to the marketing team containing the clustering data.
 
 The final product will be something similar to this:
 
 ![image](https://user-images.githubusercontent.com/46419374/134188663-824b29d2-0ddb-42ad-b297-7ba6f33f5fb7.png)
+
 
 ___
 ## 📑  PROJECT ORGANIZATION 
@@ -42,6 +44,9 @@ After we apply the previous steps we'll deliver a table containing the clusterin
 
 **Final Graphic:**
 ![image](https://user-images.githubusercontent.com/46419374/134181952-1f049024-3367-468f-b462-eeef6627d6cc.png)
+
+**Link to the cluster data***
+https://customer-behavior-cluster.herokuapp.com/
 
 ___
 ## 📑  PROJECT ATRIBUTES
