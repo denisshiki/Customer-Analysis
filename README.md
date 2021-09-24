@@ -4,8 +4,8 @@ ___
 
 In this projetct I used the Kaggle dataset locate in this link:<br> https://www.kaggle.com/imakash3011/customer-personality-analysis
 
-In this project I wanted to make a cluster of the clients using the K-Means algoritm and analyse the groups created. This will help marketing sector of the company to understand better his clients and classify then in order to give a personalised market campaig to each group.<br>
-Other  thing that we wanna do is to send a link to the marketing team containing the clustering data.
+In this project I intend to segment the grouping of customers using the K-Means algorithm and then I will analyze the groups. This will help the marketing department better understand their customers and classify them to plan personalized marketing campaigns for each group.<br>
+Another purpose is to send a link to the marketing team with the grouped data.
 
 The final product will be something similar to this:
 
