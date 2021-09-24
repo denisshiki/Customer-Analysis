@@ -18,8 +18,8 @@ ___
 The project is organized following the subtopics below:
 
 - **Data Treatment:**<br>
-  We verify if that is any missing data, and create some atributes to help our analysis
-  
+- We verify if any data is missing and create some attributes to help the analysis.
+
 - **Descriptive Analysis:**<br>
   We give an overview analysis of the data in order to better understand the client behavior.
   
